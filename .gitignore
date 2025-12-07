@@ -1,0 +1,19 @@
+gitignore
+# SWI-Prolog temporary files
+*.qlf
+*.qof
+
+# Backup files
+*.bak
+*~
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files (if you use VS Code, etc.)
+.vscode/
+.idea/
