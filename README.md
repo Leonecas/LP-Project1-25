@@ -13,3 +13,6 @@ This project consists of three parts:
 **Part 2:** [To be completed]
 
 **Part 3:** [To be completed]
+
+## How it works:
+You will find each part of the project under the names 'Part_1.pl', 'Part_2.pl' and 'Part_3.pl'.
