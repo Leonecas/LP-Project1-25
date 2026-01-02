@@ -1,5 +1,5 @@
 # LP-Project1-25
-LP Prolog Project - IST LEIC 2024/2025
+LP Prolog Project - IST LEIC 2025/2026
 
 **Student:** Leonor Rodrigues  
 **Course:** Lógica para Programação (LP)  
